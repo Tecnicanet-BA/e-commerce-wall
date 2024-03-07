@@ -14,9 +14,9 @@ TODO: este repositorio contiene un módulo que permite añadir archivos descarga
 Available addons
 ----------------
 addon | version | summary
---- | --- | --- | ---
 
-[website_sale_product_attachment](website_sale_product_attachment/) | 15.0.1.0.0 | [![Yajo](https://github.com/Yajo.png?size=30px)](https://github.com/Yajo) | Permite a usuarios del sitio web descargar archivos desde tu producto.
+
+[website_sale_product_attachment](website_sale_product_attachment/) | 15.0.1.0.0 | Permite a usuarios del sitio web descargar archivos desde tu producto.
 
 
 ----
